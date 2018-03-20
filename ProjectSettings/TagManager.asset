@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Untergrund
+  - Axe
+  - Trap
+  - Torch
+  - Syringe
+  - Key
+  - Exit
+  - Switch
+  - Mask
+  - Water
+  - Stone
+  - TrapActive
+  - Light
+  - SoundManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Blocking Layer
+  - Items
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Untergrund
+    uniqueID: 2860865621
+    locked: 0
+  - name: Items
+    uniqueID: 2236612059
+    locked: 0
+  - name: Players
+    uniqueID: 4270437263
+    locked: 0
+  - name: Walls
+    uniqueID: 1987655491
+    locked: 0
+  - name: UI
+    uniqueID: 94170297
+    locked: 0
